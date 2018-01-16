@@ -3,7 +3,7 @@ int pinAzul =5;
 int piezo =6;
 int boton = 2;
 int estado =0;
-
+ 
 void setup() {
   // put your setup code here, to run once:
 
